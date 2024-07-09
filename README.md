@@ -1,2 +1,4 @@
-# geek-universe-media
-Geek Universe Media comprised social media channels and a website I used to serve science and technology content to over 20,000 geeks from 92 countries. This is a collection of links to some code I wrote to support Geek Universe.
+- [Referral Tracker](https://github.com/richardoyelabi/referral-tracker)
+- [Phone Number Country Code Sorter](https://github.com/richardoyelabi/sort-phone-number-by-country)
+- [First Geek Universe Landing Page](https://github.com/richardoyelabi/old-geek-landing-page)
+- [CPA WordPress Ad Server](https://github.com/richardoyelabi/mini-ad-server)
